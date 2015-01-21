@@ -5,8 +5,7 @@ TestNG test framework with added features and functionality specific to Alfresco
 
 Git:
 
-    git clone https://github.com/Alfresco/AlfrescoTestAutomation/tree/master/alfresco-testng
-
+    git clone https://github.com/AlfrescoTestAutomation/alfresco-testng.git
 ### Use Maven
 
 Open a terminal, change in to the root of the project directory and run:
