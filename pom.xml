@@ -21,7 +21,7 @@
 
     <scm>
         <url>https://github.com/AlfrescoTestAutomation/alfresco-testng.git</url>
-        <connection>scm:git:git://github.com/AlfrescoTestAutomation/alfresco-testng.git</connection>
+        <connection>scm:git:git@github.com:AlfrescoTestAutomation/alfresco-testng.git</connection>
         <developerConnection>scm:git:git@github.com/AlfrescoTestAutomation/alfresco-testng.git</developerConnection>
     </scm>
 
