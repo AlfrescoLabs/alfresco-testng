@@ -20,9 +20,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:AlfrescoTestAutomation/alfresco-testng.git</connection>
-        <url>scm:git:git@github.com:AlfrescoTestAutomation/alfresco-testng.git</url>
-        <developerConnection>scm:git:git@github.com:AlfrescoTestAutomation/alfresco-testng.git</developerConnection>
+        <connection>scm:git:https://github.com/AlfrescoTestAutomation/alfresco-testng.git</connection>
+        <url>https://github.comAlfrescoTestAutomation/alfresco-testng.git</url>
+        <developerConnection>scm:git:https://github.com/AlfrescoTestAutomation/alfresco-testng.git</developerConnection>
     </scm>
 
     <properties>
