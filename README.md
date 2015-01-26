@@ -13,3 +13,14 @@ Open a terminal, change in to the root of the project directory and run:
     mvn clean install
 
         This builds the artifact to use in testing alfresco.
+
+### Including Alfresco-TestNG into a project
+Add dependency in the maven pom
+'''
+ <dependency>
+     <groupId>org.alfresco.test</groupId>
+     <artifactId>alfresco-testng</artifactId>
+     <version>1.1</version>
+ </dependency>
+'''
+
