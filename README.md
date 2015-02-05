@@ -16,11 +16,11 @@ Open a terminal, change in to the root of the project directory and run:
 
 ### Including Alfresco-TestNG into a project
 Add dependency in the maven pom
-'''
+```xml
  <dependency>
      <groupId>org.alfresco.test</groupId>
      <artifactId>alfresco-testng</artifactId>
      <version>1.1</version>
  </dependency>
-'''
+```
 
